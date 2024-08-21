@@ -1,0 +1,7 @@
+C:\Users\schehade\source\repos\ProblemaGuia1.1\bin\Debug\ProblemaGuia1.1.exe.config
+C:\Users\schehade\source\repos\ProblemaGuia1.1\bin\Debug\ProblemaGuia1.1.exe
+C:\Users\schehade\source\repos\ProblemaGuia1.1\bin\Debug\ProblemaGuia1.1.pdb
+C:\Users\schehade\source\repos\ProblemaGuia1.1\obj\Debug\ProblemaGuia1.1.csproj.AssemblyReference.cache
+C:\Users\schehade\source\repos\ProblemaGuia1.1\obj\Debug\ProblemaGuia1.1.csproj.CoreCompileInputs.cache
+C:\Users\schehade\source\repos\ProblemaGuia1.1\obj\Debug\ProblemaGuia1.1.exe
+C:\Users\schehade\source\repos\ProblemaGuia1.1\obj\Debug\ProblemaGuia1.1.pdb
